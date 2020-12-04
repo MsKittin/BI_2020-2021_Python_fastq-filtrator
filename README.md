@@ -7,7 +7,7 @@
          
 **Supported arguments:**
 
-Optional:
+Optional:  
 
 --min_length INT  
 Minimum length of reads to pass the filtering.
@@ -24,7 +24,7 @@ if 2 values are specified - these are the lower and upper bounds respectively in
 Common prefix for output file(s),
 if not specified - output file(s) will be named as source file without extension.
 
-Required:
+Required:  
 
 .fastq file  
 Positional argument, must be specified last.
